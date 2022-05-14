@@ -28,9 +28,11 @@
     font-family: "Monoton";
     font-size: 36px;
     font-style: oblique;
+    font-weight: bold;
 }
 .paragraph {
     font-family:"Caveat" ;
     font-size: 28px;
     font-style: initial;
+    font-weight: 200;
 }
